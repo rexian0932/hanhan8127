@@ -1,71 +1,71 @@
 {
-  "spider":"https://raw.bgithub.xyz/qist/tvbox/refs/heads/master/jar/fan.txt",
+  "spider":"https://raw.bgithub.xyz/qist/tvbox/refs/heads/master/jar/fan.txt"，
  //https://bgithub.xyz/qist/tvbox/blob/master/0821.json       ,https://bgithub.xyz/guot55/yg/blob/main/box%E5%8E%9F.json
  // https://raw.bgithub.xyz/qist/tvbox/refs/heads/master/jar/Yoursmile.jar
-"lives": [{"name": "live","type": 0,
-	"url": "./live.txt","playerType":2,
-	"epg":"http://epg.112114.xyz/?ch={name}&date={date}",
+"lives": [{"name": "live"，"type": 0，
+	"url": "./live.txt"，"playerType":2，
+	"epg":"http://epg.112114.xyz/?ch={name}&date={date}"，
 	"logo": "https://live.fanmingming.com/tv/{name}.png"
-}],
+}]，
 
 "sites":[
 
         {
-                "key": "XMVideo",
-                "name": "\uD83D\uDD1E 熊猫视频 | 珍惜",
-                "type": 3,
-                "api": "csp_XMVideo",
-                "searchable": 1,
+                "key": "XMVideo"，
+                "name": "\uD83D\uDD1E 熊猫视频 | 珍惜"，
+                "type": 3，
+                "api": "csp_XMVideo"，
+                "searchable": 1，
                 "filterable": 1
-              },
+              }，
               {
-                "key": "MiMei",
-                "name": "\uD83D\uDD1E 迷妹 | 珍惜",
-                "type": 3,
-                "api": "csp_MiMei",
-                "searchable": 1,
+                "key": "MiMei"，
+                "name": "\uD83D\uDD1E 迷妹 | 珍惜"，
+                "type": 3，
+                "api": "csp_MiMei"，
+                "searchable": 1，
                 "filterable": 1
-              },
+              }，
               {
-                "key": "HiPianZhiBo",
-                "name": "\uD83D\uDD1E 嗨片直播 | 视频",
-                "type": 3,
-                "api": "csp_HiPianZhiBo",
-                "searchable": 1,
+                "key": "HiPianZhiBo"，
+                "name": "\uD83D\uDD1E 嗨片直播 | 视频"，
+                "type": 3，
+                "api": "csp_HiPianZhiBo"，
+                "searchable": 1，
                 "filterable": 1
-              },
+              }，
               {
-                "key": "zp059",
-                "name": "🔞番号资源",
-                "type": 0,
-                "api": "http://fhapi9.com/api.php/provide/vod/at/xml",
-                "searchable": 1,
-                "quickSearch": 1,
+                "key": "zp059"，
+                "name": "🔞番号资源"，
+                "type": 0，
+                "api": "http://fhapi9.com/api.php/provide/vod/at/xml"，
+                "searchable": 1，
+                "quickSearch": 1，
                 "filterable": 0
-              },
+              }，
               {
-                "key": "zp066",
-                "name": "🔞花椒资源",
-                "type": 0,
-                "api": "https://api.apilyzy.com/api.php/provide/vod/at/xml/",
-                "searchable": 1,
-                "quickSearch": 1,
+                "key": "zp066"，
+                "name": "🔞花椒资源"，
+                "type": 0，
+                "api": "https://api.apilyzy.com/api.php/provide/vod/at/xml/"，
+                "searchable": 1，
+                "quickSearch": 1，
                 "filterable": 0
-              },
+              }，
               {
-                "key": "zp123",
-                "name": "🔞色猫资源（慢）",
-                "type": 0,
-                "api": "https://api.maozyapi.com/inc/api.php/provide/vod/at/xml/",
-                "searchable": 1,
-                "quickSearch": 1,
+                "key": "zp123"，
+                "name": "🔞色猫资源（慢）"，
+                "type": 0，
+                "api": "https://api.maozyapi.com/inc/api.php/provide/vod/at/xml/"，
+                "searchable": 1，
+                "quickSearch": 1，
                 "filterable": 0
-              },
+              }，
               {
-                "key": "zp137",
-                "name": "🔞探探资源（慢）",
-                "type": 0,
-                "api": "https://apittzy.com/api.php/provide/vod/at/xml/",
+                "key": "zp137"，
+                "name": "🔞探探资源（慢）"，
+                "type": 0，
+                "api": "https://apittzy.com/api.php/provide/vod/at/xml/"，
                 "playUrl": "https://jiexi.ttbfp1.com/m3u8/?url=",
                 "searchable": 1,
                 "quickSearch": 1,
